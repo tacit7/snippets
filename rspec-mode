@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: stub class
+# key: sclass
+# --
+class_spy($1, $2).as_stubbed_const
